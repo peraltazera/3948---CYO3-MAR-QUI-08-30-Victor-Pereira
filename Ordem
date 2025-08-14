@@ -1,0 +1,27 @@
+npm create vite@latest meu-projeto -- --template react
+
+cd meu-projeto
+
+npm install
+
+//npm install -D tailwindcss postcss autoprefixer
+
+npm i tailwindcss@3.4.17
+
+npx tailwindcss init -p
+
+https://www.reddit.com/r/reactjs/comments/1i8mz7h/facing_issues_in_installing_tailwind_css/?tl=pt-br
+
+instalar axios -> npm install axios
+
+instalar json-server -> npm install json-server
+
+Configurar db.json
+
+configurar tailwind.config.js
+
+configurar api.js
+
+configurar index.css.js
+
+excluir app.css

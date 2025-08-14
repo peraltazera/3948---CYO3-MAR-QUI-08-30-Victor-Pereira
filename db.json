@@ -1,33 +1,21 @@
 {
   "characters": [
     {
-      "id": "799d",
-      "name": "sadsa",
-      "classType": "asdasdasd",
+      "id": "0d62",
+      "name": "victor",
+      "classType": "Mago",
       "level": 1
     },
     {
-      "id": "f1ef",
-      "name": "asdasd",
-      "classType": "asdasd",
+      "id": "7975",
+      "name": "victor Pereira",
+      "classType": "orc",
       "level": 1
     },
     {
-      "id": "68a0",
-      "name": "asdasd",
-      "classType": "asdasd",
-      "level": 1
-    },
-    {
-      "id": "7439",
-      "name": "asdasd",
-      "classType": "asdasd",
-      "level": 1
-    },
-    {
-      "id": "c77b",
-      "name": "asdasd",
-      "classType": "asdasd",
+      "id": "9ae6",
+      "name": "Artur",
+      "classType": "Bardo",
       "level": 1
     }
   ]
